@@ -1,0 +1,5 @@
+# Optional desktop integrations. The core app uses only Python standard library.
+pywebview>=5.0
+keyboard>=0.13
+pystray>=0.19
+Pillow>=10.0
